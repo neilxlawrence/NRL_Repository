@@ -1,0 +1,8 @@
+#gitignore can stop git commiting certain file types (an example would be my tif files)
+
+#when does that change?
+
+#you can only edit in the editor
+
+#YOu can edit when you are staged
+
